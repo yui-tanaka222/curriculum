@@ -31,7 +31,7 @@ public class Study {
         // ② 以下の「shopMap.put(shohinList.get(1), 180);」の処理について、コメントを記述してください。
         /*
          * [ここへ記述]
-         * shohinList.get(1)の要素に、180を格納している。
+         * shopMapに、shohinList.get(1)をキーに、要素180を追加している。
          */
         LinkedHashMap<String, Integer> shopMap = new LinkedHashMap<String, Integer>();
         shopMap.put(shohinList.get(0), 125);
