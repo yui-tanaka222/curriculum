@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+div#header {
+	background-color: gray;
+}
+
+label#tl {
+	display: inline-block;
+	padding: 10px;
+	color: white;
+}
+
+label#dt {
+	padding: 10px;
+	font-size: 10px;
+}
+
+div#footer {
+	background-color: gray;
+}
+
+label#footer {
+	display: inline-block;
+	padding: 10px;
+	color: white;
+}
+
+div#jspTest {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
